@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Atualmente sou estudante de ADS, em busca de crescimento constante na área de desenvolvimento.  
 Gosto de aprender coisas novas, enfrentar desafios e transformar conhecimento em prática através de projetos.
