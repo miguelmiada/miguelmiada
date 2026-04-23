@@ -41,9 +41,9 @@ Gosto de aprender coisas novas, enfrentar desafios e transformar conhecimento em
 
 ## 📈 Objetivos
 
-- 🚀 Conseguir meu primeiro estágio na área de tecnologia  
-- 📚 Evoluir como desenvolvedor  
-- 💡 Criar projetos cada vez mais completos  
+- Conseguir meu primeiro estágio na área de tecnologia  
+- Evoluir como desenvolvedor  
+- Criar projetos cada vez mais completos  
 
 ---
 
@@ -54,6 +54,5 @@ Gosto de aprender coisas novas, enfrentar desafios e transformar conhecimento em
 - 📸 Instagram: https://www.instagram.com/mgueels/
 
 ---
-## 🧭 Filosofia de vida
-
-Acredito no aprendizado constante e, com dedicação e disciplina, busco evoluir todos os dias, transformando desafios em oportunidades de crescimento.
+## 🧭 Acredito no aprendizado constante e, com dedicação e disciplina, busco evoluir todos os dias, transformando desafios em oportunidades de crescimento.
+ 
