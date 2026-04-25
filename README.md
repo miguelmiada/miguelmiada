@@ -1,6 +1,4 @@
 # 👋 Olá, eu sou o Miguel!
-
-# 👋 Olá, eu sou o Miguel!
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas · São Paulo, BR
 </p>
@@ -9,16 +7,17 @@
   <a href="https://www.linkedin.com/in/miguel-miada-695162362/">LinkedIn</a> ·
   <a href="https://www.instagram.com/mgueels/">Instagram</a>
 </p>
+
 ---
 
 ## Sobre mim
 
-Em busca de crescimento constante na área de desenvolvimento.  
-Gosto de aprender coisas novas, enfrentar desafios e transformar conhecimento em prática através de projetos.
+Busco crescimento constante na área de desenvolvimento.  
+Viso aprender coisas novas, enfrentar desafios e transformar conhecimento em prática através de projetos.
 
 ---
 
-## Conhecimentos
+## 🧠 Conhecimentos
 
 * Lógica de Programação  
 * Desenvolvimento Web  
