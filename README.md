@@ -1,58 +1,56 @@
-# 👋 Olá, eu sou o Miguel!
+<h1 align="center">Miguel Miada</h1>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-🇧🇷 Brasileiro  
-💻 Focado em evoluir na área de tecnologia  
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas · São Paulo, BR
+</p>
 
----
-
-## Sobre mim
-
-Em busca de crescimento constante na área de desenvolvimento.  
-Gosto de aprender coisas novas, enfrentar desafios e transformar conhecimento em prática através de projetos.
-
----
-
-## 🧠 Atualmente estudando
-
-- Lógica de Programação  
-- Desenvolvimento Web  
-- Estruturas de Dados  
-- Banco de Dados  
+<p align="center">
+  <a href="mailto:miadamiguel@gmail.com">miadamiguel@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/miguel-miada-695162362/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/mgueels/">Instagram</a>
+</p>
 
 ---
 
-## 🛠️ Tecnologias
-
-### 💡 Linguagens que já estudei / estou estudando
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-
-### 🌱 Aprendendo agora
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+Desenvolvedor em formação, focado em transformar conhecimento em prática através de projetos reais. Busco meu primeiro estágio na área de tecnologia enquanto aprofundo minha base técnica em lógica, estruturas de dados e desenvolvimento web.
 
 ---
 
-## 📈 Objetivos
+## Tecnologias
 
-- Conseguir meu primeiro estágio na área de tecnologia  
-- Evoluir como desenvolvedor  
-- Criar projetos cada vez mais completos  
+**Estudei / estudo**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
+**Aprendendo agora**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-## 📫 Contato
+## Foco de estudos
 
-- 📧 Email: miadamiguel@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/miguel-miada-695162362/  
-- 📸 Instagram: https://www.instagram.com/mgueels/
+| Área | Status |
+|---|---|
+| Lógica de Programação | Em andamento |
+| Desenvolvimento Web | Em andamento |
+| Estruturas de Dados | Em andamento |
+| Banco de Dados | Em andamento |
 
 ---
-## 🧭 Acredito no aprendizado constante e, com dedicação e disciplina, busco evoluir todos os dias, transformando desafios em oportunidades de crescimento.
- 
+
+## Objetivos
+
+- Conquistar o primeiro estágio na área de tecnologia
+- Construir projetos cada vez mais completos
+- Evoluir continuamente como desenvolvedor
+
+---
+
+<p align="center">
+  <i>Aprendizado constante, dedicação e disciplina — transformando desafios em crescimento.</i>
+</p>
