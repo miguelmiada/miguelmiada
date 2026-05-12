@@ -4,23 +4,28 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas • São Paulo, BR**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:miadamiguel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-miada-695162362/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mgueels)
 
 ---
 
 ### Sobre mim
 
+👨‍💻 Full-Stack Developer em formação
 
-👨🏻‍💻 **Full-Stack Developer**
+Estudando Java e MySQL
 
-📚 Estudando **Java**, **Python** 
+Focado em desenvolvimento back-end, APIs e automações
 
-🌐 Aprendendo **APIs** e desenvolvimento web
+
+
+
+---
+
+📩contatomiguelmiada@gmail.com
+
 
 💼 Buscando **estágio** em tecnologia
-
 
 ---
 
