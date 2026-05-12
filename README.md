@@ -1,53 +1,41 @@
+
+
 # 👋 Olá, eu sou o Miguel!
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas · São Paulo, BR
-</p>
-<p align="center">
-  <a href="mailto:miadamiguel@gmail.com">miadamiguel@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/miguel-miada-695162362/">LinkedIn</a> ·
-  <a href="https://www.instagram.com/mgueels/">Instagram</a>
-</p>
+
+**Estudante de Análise e Desenvolvimento de Sistemas • São Paulo, BR**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:miadamiguel@gmail.com)
 
 ---
 
-## Sobre mim
+### Sobre mim
 
-Busco crescimento constante na área de desenvolvimento.  
-Viso aprender coisas novas, enfrentar desafios e transformar conhecimento em prática através de projetos.
 
----
+👨🏻‍💻 **Full-Stack Developer**
 
-## 🧠 Conhecimentos
+📚 Estudando **Java**, **Python** 
 
-* Lógica de Programação  
-* Desenvolvimento Web  
-* Estruturas de Dados  
-* Banco de Dados  
+🌐 Aprendendo **APIs** e desenvolvimento web
+
+💼 Buscando **estágio** em tecnologia
+
 
 ---
 
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
----
-
-## Objetivos
-
-* Conquistar o primeiro estágio na área de tecnologia
-* Evoluir como desenvolvedor  
-* Criar projetos cada vez mais completos  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-<p align="center">
-  <i>Aprendizado constante, dedicação e disciplina — transformando desafios em crescimento.</i>
-</p>
- 
+*Learning every day, building the future.* 🍀 
+
+</div>
