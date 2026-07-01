@@ -41,6 +41,6 @@ Focado em desenvolvimento back-end, APIs e automações
 
 ---
 
-*Learning every day, building the future.* 🍀 
+*whatever has to happen, will happen.* 🍀 
 
 </div>
